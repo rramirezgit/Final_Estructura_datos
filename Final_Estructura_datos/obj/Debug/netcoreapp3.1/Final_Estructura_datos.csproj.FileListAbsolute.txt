@@ -1,0 +1,13 @@
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.exe
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.deps.json
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.runtimeconfig.json
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.dll
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\bin\Debug\netcoreapp3.1\Final_Estructura_datos.pdb
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.dll
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.pdb
+C:\Users\Ricardo\source\repos\Final_Estructura_datos\Final_Estructura_datos\obj\Debug\netcoreapp3.1\Final_Estructura_datos.genruntimeconfig.cache
